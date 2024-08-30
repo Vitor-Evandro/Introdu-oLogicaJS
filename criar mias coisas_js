@@ -1,0 +1,11 @@
+
+
+// inprima a coisa q vc quiser
+
+function imprimirMeuJogo(MeuJogo) {
+MeuJogo = "meu jogo q eu criei foi o q a minha sora fez eu fazer e q por ventura ficou muito bom"
+
+console.log("meu jogo é icrivel", MeuJogo)
+}
+imprimirMeuJogo()
+
